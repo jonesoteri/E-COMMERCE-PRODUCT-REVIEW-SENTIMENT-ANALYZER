@@ -25,7 +25,7 @@
 - [Pipeline Development](#pipeline-development).
   * Pipeline for Data Extraction, Cleaning, and Transformation
   * Loading Data into the Database
-  * Tracking and Documentation Using SCRUM Approach
+  * Tracking and Documentation
 
 - [Model Deployment](#model-deployment).
   * Local Deployment Using Flask Application
