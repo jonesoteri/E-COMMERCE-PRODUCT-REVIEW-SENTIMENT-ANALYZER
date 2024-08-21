@@ -1,4 +1,5 @@
 # E-COMMERCE-PRODUCT-REVIEW-SENTIMENT-ANALYZER
+* Welcome to the E-commerce Product Review Sentiment Analyzer project! This repository showcases a comprehensive sentiment analysis solution for product reviews sourced from AliExpress, focusing on the Electronics category.
 
 ## Table of Contents 
 - [Project Overview](#project-overview).
