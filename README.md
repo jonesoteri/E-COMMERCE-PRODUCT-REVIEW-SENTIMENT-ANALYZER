@@ -34,7 +34,9 @@
 - [Visualization](#visualization).
   * Sentiment Distribution (Pie Chart)
   * Word Cloud of Customer Reviews
-  * Top 20 Most Common Words in Customer Reviews
+  * Top 15 Most Common Words in Customer Reviews
+  * Top 20 Most Common Words in Positive Reviews
+  * Top 20 Most Common Words in Negative Reviews
 
 - [Performance Evaluation](#performance-evaluation).
   * Confusion Matrix Analysis
