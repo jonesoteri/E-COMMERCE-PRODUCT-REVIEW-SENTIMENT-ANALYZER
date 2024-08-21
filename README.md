@@ -8,7 +8,7 @@
   * About the Company
 
 - [Data Collection](#data-collection).
-  * Data Sources
+  * Data Sources: Web Scraping and API Integration
   * Data Acquisition Process
   * Data Storage on Cloud (AWS Services)
 
